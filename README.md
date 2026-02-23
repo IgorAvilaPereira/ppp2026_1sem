@@ -65,7 +65,7 @@ Os padrões de projeto são classificados como:
 
 <br><br>
 
-[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./01_strategy) <br><br>
+[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2026_1sem/tree/main/./01_strategy) <br><br>
 [revisao-oo.pdf](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./01_strategy/revisao-oo.pdf) <br>
 [strategy_aplicabilidade.png](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./01_strategy/strategy_aplicabilidade.png) <br>
 [strategy_exemplos.md](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./01_strategy/strategy_exemplos.md) <br>
