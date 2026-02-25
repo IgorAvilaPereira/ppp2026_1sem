@@ -5,6 +5,7 @@
 [rc008-designpatterns_online.pdf](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./00_guia_rapido/rc008-designpatterns_online.pdf) <br>
 ## [./01_strategy](https://github.com/IgorAvilaPereira/ppp2026_1sem/tree/main/./01_strategy) <br>
 [01_strategy.pdf](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./01_strategy/01_strategy.pdf) <br>
+[introducao.md](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./01_strategy/introducao.md) <br>
 [introducao.pdf](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./01_strategy/introducao.pdf) <br>
 
 Os Padrões de Projeto são soluções já encontradas, experimentadas e testadas e que podem ser aplicadas a projetos sem ter que "reinventar a roda". Vários Padrões de Projeto foram catalogados e são um conjunto de melhores práticas que são seguidos e usados em projetos de software orientado a objetos.
@@ -65,7 +66,7 @@ Os padrões de projeto são classificados como:
 
 <br><br>
 
-[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2026_1sem/tree/main/./01_strategy) <br><br>
+[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./01_strategy) <br><br>
 [revisao-oo.pdf](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./01_strategy/revisao-oo.pdf) <br>
 [strategy_aplicabilidade.png](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./01_strategy/strategy_aplicabilidade.png) <br>
 [strategy_exemplos.md](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./01_strategy/strategy_exemplos.md) <br>
