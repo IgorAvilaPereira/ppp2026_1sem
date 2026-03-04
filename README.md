@@ -148,4 +148,5 @@ https://github.com/IgorAvilaPereira/ppp2024_1sem/tree/main/codigos/placar_observ
 
 <br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2026_1sem/tree/main/02_observer) <br><br>
 &nbsp;
+[strategy_vs_observer.md](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./02_observer/strategy_vs_observer.md) <br>
 [controle_bolsa](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./02_observer/controle_bolsa) <br>
