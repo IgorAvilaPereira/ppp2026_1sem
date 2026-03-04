@@ -173,17 +173,3 @@ Observadores:
 
 ---
 
-# 🎯 Dica Didática Forte
-
-Uma sequência muito boa de aula:
-
-1. Sistema de notificações (intuitivo)
-2. Sistema acadêmico (contexto real do aluno)
-3. Bolsa de valores (escala e performance)
-4. Kafka/RabbitMQ (arquitetura moderna)
-
-Isso mostra a evolução:
-
-> do simples → ao distribuído → ao arquitetural.
-
-
