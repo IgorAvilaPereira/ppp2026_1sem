@@ -74,6 +74,7 @@ Os padrões de projeto são classificados como:
 [Strategy](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./01_strategy/Strategy) <br>
 ## [./02_observer](https://github.com/IgorAvilaPereira/ppp2026_1sem/tree/main/./02_observer) <br>
 [aula.md](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./02_observer/aula.md) <br>
+[exemplos.md](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./02_observer/exemplos.md) <br>
 [observer.md](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./02_observer/observer.md) <br>
 [observer.pdf](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./02_observer/observer.pdf) <br>
 
