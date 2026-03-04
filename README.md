@@ -71,6 +71,7 @@ Os padrões de projeto são classificados como:
 [strategy_aplicabilidade.png](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./01_strategy/strategy_aplicabilidade.png) <br>
 [strategy_exemplos.md](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./01_strategy/strategy_exemplos.md) <br>
 [aula](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./01_strategy/aula) <br>
+[codigo](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./01_strategy/codigo) <br>
 [Strategy](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./01_strategy/Strategy) <br>
 ## [./02_observer](https://github.com/IgorAvilaPereira/ppp2026_1sem/tree/main/./02_observer) <br>
 [aula.md](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./02_observer/aula.md) <br>
@@ -151,3 +152,5 @@ https://github.com/IgorAvilaPereira/ppp2024_1sem/tree/main/codigos/placar_observ
 &nbsp;
 [strategy_vs_observer.md](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./02_observer/strategy_vs_observer.md) <br>
 [controle_bolsa](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./02_observer/controle_bolsa) <br>
+[instagram](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./02_observer/instagram) <br>
+[instagram_up](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./02_observer/instagram_up) <br>
