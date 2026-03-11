@@ -155,6 +155,7 @@ https://github.com/IgorAvilaPereira/ppp2024_1sem/tree/main/codigos/placar_observ
 [instagram](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./02_observer/instagram) <br>
 [instagram_up](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./02_observer/instagram_up) <br>
 ## [./03_template_method](https://github.com/IgorAvilaPereira/ppp2026_1sem/tree/main/./03_template_method) <br>
+[comparacao_com_padroes_vistos.md](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./03_template_method/comparacao_com_padroes_vistos.md) <br>
 **Exemplos:**
 
 * Relatório
