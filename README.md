@@ -284,6 +284,7 @@ https://github.com/IgorAvilaPereira/ppp2024_1sem/tree/main/codigos/placar_observ
 [template_method.pdf](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./03_template_method/template_method.pdf) <br>
 [templatemethod_vs_strategy2.png](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./03_template_method/templatemethod_vs_strategy2.png) <br>
 [templatemethod_vs_strategy.pdf](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./03_template_method/templatemethod_vs_strategy.pdf) <br>
+[exemplo](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./03_template_method/exemplo) <br>
 [exemplo_templatemethod](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./03_template_method/exemplo_templatemethod) <br>
 [template_method](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./03_template_method/template_method) <br>
 [template_method2](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./03_template_method/template_method2) <br>
@@ -388,6 +389,8 @@ Essas desvantagens não anulam os benefícios do padrão Command, mas é importa
 
 [Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2026_1sem/tree/main/./04_command)
 [command_aula](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./04_command/command_aula) <br>
+[command_controle](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./04_command/command_controle) <br>
+[command_rotas](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./04_command/command_rotas) <br>
 [command_web](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./04_command/command_web) <br>
 [demo2](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./04_command/demo2) <br>
 [demo3](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./04_command/demo3) <br>
