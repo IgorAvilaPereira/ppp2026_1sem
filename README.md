@@ -551,6 +551,6 @@ Identificação: O iterador é fácil de reconhecer pelos métodos de navegaçã
 * https://www.devmedia.com.br/padrao-de-projeto-iterator-em-java-conceitos-funcionamento-e-aplicacao-pratica/28748#:~:text=O%20padr%C3%A3o%20Iterator%20permite%20o,a%20responsabilidade%20onde%20deveria%20estar.
 
 
-<br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2025_2sem/tree/main/06_iterator) <br><br>
+<br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2026_1sem/tree/main/06_iterator) <br><br>
 &nbsp;
 [restaurante](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./06_iterator/restaurante) <br>
