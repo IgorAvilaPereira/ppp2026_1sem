@@ -555,3 +555,6 @@ Identificação: O iterador é fácil de reconhecer pelos métodos de navegaçã
 &nbsp;
 [aula_iterator](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./06_iterator/aula_iterator) <br>
 [restaurante](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./06_iterator/restaurante) <br>
+## [./07_revisao](https://github.com/IgorAvilaPereira/ppp2026_1sem/tree/main/./07_revisao) <br>
+<br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2026_1sem/tree/main/07_revisao) <br><br>
+&nbsp;
