@@ -563,3 +563,4 @@ Identificação: O iterador é fácil de reconhecer pelos métodos de navegaçã
 [lista1.md](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./08_revisao/lista1.md) <br>
 <br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2026_1sem/tree/main/08_revisao) <br><br>
 &nbsp;
+[lista1](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./08_revisao/lista1) <br>
