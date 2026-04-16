@@ -1,0 +1,53 @@
+{
+  "className": "MainWindow",
+  "frameTitle": "MainWindow",
+  "frameWidth": 1024,
+  "frameHeight": 768,
+  "components": [
+    {
+      "id": "bd63a90f-b52e-4bf9-806e-fff04a40bdb1",
+      "type": "TextArea",
+      "variableName": "textArea1",
+      "x": 5,
+      "y": 200,
+      "width": 220,
+      "height": 96,
+      "backgroundColor": "#ffffff",
+      "textColor": "#000000",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "eventMethodName": "",
+      "text": "TextArea"
+    },
+    {
+      "id": "b62326ad-69ed-4793-b1c2-34e1e9265e79",
+      "type": "Button",
+      "variableName": "button2",
+      "x": 18,
+      "y": 304,
+      "width": 120,
+      "height": 36,
+      "backgroundColor": "#ffffff",
+      "textColor": "#000000",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "eventMethodName": "colar",
+      "text": "Colar"
+    },
+    {
+      "id": "5f94be1f-ac91-4617-b964-7624dee63ffc",
+      "type": "Button",
+      "variableName": "button3",
+      "x": 16,
+      "y": 351,
+      "width": 120,
+      "height": 36,
+      "backgroundColor": "#ffffff",
+      "textColor": "#000000",
+      "fontFamily": "Arial",
+      "fontSize": 12,
+      "eventMethodName": "copiar",
+      "text": "Copiar"
+    }
+  ]
+}
