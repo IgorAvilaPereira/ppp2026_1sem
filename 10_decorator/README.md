@@ -18,4 +18,4 @@
 
 * **Como remover:** https://stackoverflow.com/questions/55776160/how-to-remove-decorated-object-from-decorator-pattern
 
-[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2025_2sem/tree/main/./09_decorator)
+[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2026_1sem/tree/main/./10_decorator)
