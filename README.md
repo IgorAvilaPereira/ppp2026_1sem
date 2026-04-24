@@ -591,7 +591,7 @@ Identificação: O iterador é fácil de reconhecer pelos métodos de navegaçã
 
 * **Como remover:** https://stackoverflow.com/questions/55776160/how-to-remove-decorated-object-from-decorator-pattern
 
-[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2025_2sem/tree/main/./09_decorator)
+[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2026_1sem/tree/main/./10_decorator)
 [starbucks.sql](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./10_decorator/starbucks.sql) <br>
 [decorator](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./10_decorator/decorator) <br>
 [editor_imagem](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./10_decorator/editor_imagem) <br>
