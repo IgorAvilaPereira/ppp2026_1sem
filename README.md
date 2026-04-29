@@ -595,4 +595,6 @@ Identificação: O iterador é fácil de reconhecer pelos métodos de navegaçã
 [starbucks.sql](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./10_decorator/starbucks.sql) <br>
 [decorator](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./10_decorator/decorator) <br>
 [editor_imagem](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./10_decorator/editor_imagem) <br>
+[markdown_igor](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./10_decorator/markdown_igor) <br>
 [starbucks_rg](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./10_decorator/starbucks_rg) <br>
+[subwaycisco](https://github.com/IgorAvilaPereira/ppp2026_1sem/blob/main/./10_decorator/subwaycisco) <br>
