@@ -59,9 +59,9 @@ public class ReadJpegFile {
                 ColorConvertOp op = new ColorConvertOp(ColorSpace.getInstance(ColorSpace.CS_GRAY), null);
                 BufferedImage dest = op.filter(image, null);
 
-                ImageIO.write(dest, "PNG", new File("/home/iapereira/git/ppp2025_2sem/09_decorator/editor_imagem/src/main/resources/teste.png"));
+                ImageIO.write(dest, "PNG", new File("/home/iapereira/foto.png"));
                 JOptionPane.showMessageDialog(null, "Image converted to grayscale successfully!");
-                Runtime.getRuntime().exec("google-chrome /home/iapereira/git/ppp2025_2sem/09_decorator/editor_imagem/src/main/resources/teste.png");
+                Runtime.getRuntime().exec("google-chrome /home/iapereira/teste.png");
                 // You can now work with the 'image' object (e.g., display it, process it)
             } else {
                 System.out.println("Could not load the image. Ensure the file exists and is a valid JPEG.");
